@@ -54,9 +54,9 @@ onMounted(() => {
         <div class="mx-10 py-2 my-6">
           <Plus fillColor="#ffffff" :size="40" class="cursor-pointer" />
         </div>
-        <div class="mx-10 py-2 my-6">
+        <!-- <div class="mx-10 py-2 my-6">
           <ChevronLeft fillColor="#ffffff" :size="40" class="cursor-pointer" />
-        </div>
+        </div> -->
       </div>
     </div>
     <div v-if="!showFullVideo">
